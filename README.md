@@ -1,8 +1,9 @@
 # Transformer
 
-2017년 구글 연구팀이  NIPS에 공개한 딥러닝 아키텍처 [(논문)](https://arxiv.org/pdf/1706.03762.pdf)
+2017년 구글 연구팀이 NIPS에 공개한 딥러닝 아키텍처 [(논문)](https://arxiv.org/pdf/1706.03762.pdf)
 
 Positional Encoding, (Masked) Multi-Head Attention, Self-Attention 등의 개념들이 등장
+
 
 
 
